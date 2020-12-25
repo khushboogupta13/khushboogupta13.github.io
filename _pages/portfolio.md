@@ -9,4 +9,4 @@ author_profile: true
 
 An ML application to help users get notified about dubious news sources using Natural Language Processing.
 
-![](../images/news_classifier.png)
+![](../images/Fake News Prediction.jpeg)
