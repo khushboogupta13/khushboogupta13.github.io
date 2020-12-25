@@ -14,7 +14,7 @@ I am currently exploring the field of Android Development by working on a projec
 
 I am a huge advocate of promoting diversity in STEM related fields and I am always looking for opportunities to support them. Apart from pursuing my academic interests, I am extremely passionate about graphic designing and artwork. I lead GrafiKo, which is the Graphic Designing club of IIT Goa. I really enjoy participating in dramas and expressing myself through drawings and paintings. 
 
-#Interests:
+# Interests:
 * Web Development 
 * Machine Learning
 * Natural Language Processing
