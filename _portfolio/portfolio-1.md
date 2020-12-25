@@ -1,3 +1,3 @@
-Fake news Classifier
+# Fake News Classifier
 
 
