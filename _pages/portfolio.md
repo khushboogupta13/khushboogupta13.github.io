@@ -6,12 +6,18 @@ author_profile: true
 ---
 ## Fake News Classifier | [Code](https://github.com/khushboogupta13/NEWS-CLASSIFIER-1)
 
-An ML application to help users get notified about dubious news sources using Natural Language Processing.
-
-![](https://github.com/khushboogupta13/khushboogupta13.github.io/blob/master/images/Fake%20News%20Prediction.jpeg)
+An ML application made under an open source program by Lets Upgrade to help users get notified about dubious news sources using Machine Learning and Natural Language Processing. 
 
 ## How many topics? | [Code](https://github.com/khushboogupta13/How_Many_topics)
 
-An open source project based on Topic Modeling, Classification, Natural Language Processing which aims to find a suitable value of number of topics which would suit almost all the datasets.
+An open source project under Girlscript Summer of Code 2020 based on Topic Modeling, Classification, Natural Language Processing which aims to find a suitable value of number of topics which would suit almost all the datasets.
 
-![](https://github.com/khushboogupta13/khushboogupta13.github.io/blob/master/images/Fake%20News%20Prediction.jpeg)
+## Machine Learning Mini Projects | [Code](https://github.com/khushboogupta13/Basic-ML-Algorithms)
+
+Implemented Several Machine Learning Algorithms from scratch like Linear Regression, Logistic Regression, Naive Bayes algorithm, Decision Trees, etc. some of the major datasets I worked on included making a House Pricing Prediction Model and Spam Email Classifier. I also made a Face Recognition and Mood Detection model using OpenCV.
+
+## Response Visualisation 
+
+Building a Javascript Application using libraries like ChartJS which helps to visualise the responses collected using Google Forms.
+
+
