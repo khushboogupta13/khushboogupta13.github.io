@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Blog Posts"
-permalink: /blog_posts.md/
+permalink: /blog_posts/
 author_profile: true
 ---
 
