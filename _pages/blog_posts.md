@@ -10,7 +10,6 @@ author_profile: true
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
- 
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
