@@ -16,6 +16,10 @@ An open source project under Girlscript Summer of Code 2020 based on Topic Model
 
 A MERN stack application developed under Hackoverflow Hackathon at Cepheus, 2021. The web application is aimed at improving the communication between citizens, government officials and agency members by providing suitable functionality to each one of them. 
 
+## Codeforces Android App | [Code](https://github.com/khushboogupta13/codeforces-mobile-app)
+
+An Android App made in Kotlin where the user can look at the upcoming contests, rating changes and recent submissions of a user. The project is currently under progress. This project was made under Wootech 2020-21 Mentorship Program. 
+
 ## Machine Learning Mini Projects | [Code](https://github.com/khushboogupta13/Basic-ML-Algorithms)
 
 Implemented Several Machine Learning Algorithms from scratch like Linear Regression, Logistic Regression, Naive Bayes algorithm, Decision Trees, etc. some of the major datasets I worked on included making a House Pricing Prediction Model and Spam Email Classifier. I also made a Face Recognition and Mood Detection model using OpenCV.
