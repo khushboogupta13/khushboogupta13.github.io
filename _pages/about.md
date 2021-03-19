@@ -17,7 +17,7 @@ Apart from pursuing my academic interests, I enjoy about graphic designing and s
 # Interests:
 * Machine Learning and Deep Learning
 * Natural Language Processing, Text and Data Mining
-* Research in areas related to the use of Artificial Intelligence in Social Computing, Psychology and Cognitive Neuroscience
+* Research in areas related to the use of Artificial Intelligence in Multimedia Analysis, Social Computing, Psychology and Cognitive Neuroscience
 * Full Stack Web Development 
 
 
