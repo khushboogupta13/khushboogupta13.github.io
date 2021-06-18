@@ -4,13 +4,17 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
-## Fake News Classifier | [Code](https://github.com/khushboogupta13/NEWS-CLASSIFIER-1)
+## Flipkart Product Categorisation | [Code](https://github.com/khushboogupta13/Flipkart-Product-Categorization)
 
-An ML application made under an open source program by Lets Upgrade to help users get notified about dubious news sources using Machine Learning and Natural Language Processing. 
+Analysed a datset of over 20,000 e-commerce products using several data visualisation techniques. Then, with the help of several Machine Learning algorithms and Transformer based models, tried to classify these products based on their Product Category Tree.
 
 ## How many topics? | [Code](https://github.com/khushboogupta13/How_Many_topics)
 
 An open source project under Girlscript Summer of Code 2020 based on Topic Modeling, Classification, Natural Language Processing which aims to find a suitable value of number of topics which would suit almost all the datasets.
+
+## Fake News Classifier | [Code](https://github.com/khushboogupta13/NEWS-CLASSIFIER-1)
+
+An ML application made under an open source program by Lets Upgrade to help users get notified about dubious news sources using Machine Learning and Natural Language Processing. 
 
 ## BMC Complaints Management App | [Code](https://github.com/khushboogupta13/Road-App)
 
@@ -24,8 +28,5 @@ An Android App made in Kotlin where the user can look at the upcoming contests, 
 
 Implemented Several Machine Learning Algorithms from scratch like Linear Regression, Logistic Regression, Naive Bayes algorithm, Decision Trees, etc. some of the major datasets I worked on included making a House Pricing Prediction Model and Spam Email Classifier. I also made a Face Recognition and Mood Detection model using OpenCV.
 
-## Response Visualisation 
-
-Building a Javascript Application using libraries like ChartJS which helps to visualise the responses collected using Google Forms.
 
 
